@@ -9,5 +9,8 @@
         <module name="java6-rest-client" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rest-client-java6" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
